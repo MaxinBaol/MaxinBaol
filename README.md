@@ -2,7 +2,7 @@
 
 - 🍦o((>ω< ))o Meu nome é Isabeli Ferraz.
 
-- 🍓╰（‵□′）╯ Estou estudando na Alura.
+- 🍓╰（‵□′）╯ Estou estudando na [Alura](https://www.alura.com.br)
 - 🦐（＞人＜；）Estou me desenvolvendo na linguagem javaScript.
 - ✨(*￣3￣)╭ Utilizo desse espaço para me organizar e compartilhar meus projetos finalizados.
 
